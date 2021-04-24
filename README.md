@@ -56,4 +56,5 @@ windown
     4. clip < ~/.ssh/id_rsa.pub
 
 
-test bank
+test bank 2
+
