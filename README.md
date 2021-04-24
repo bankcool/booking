@@ -54,5 +54,7 @@ windown
     2. eval $(ssh-agent -s)
     3. ssh-add ~/.ssh/id_rsa
     4. clip < ~/.ssh/id_rsa.pub
- 
- test commit bank 1
+
+
+test bank 2
+
